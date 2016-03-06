@@ -9,6 +9,10 @@
 	opacity: 0;
 }
 
+.hid{
+	display: none;
+}
+
 
 .googhole-container{
 	height: 233px;

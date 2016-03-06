@@ -1,5 +1,6 @@
 $(document).ready(function() {
   $("#warning").hide();
+  $("#warning").removeClass("hid");
   $("#search-form").submit(function(e){
     e.preventDefault();
     // alert("The action has occurred without submitting the form!");
